@@ -1,4 +1,4 @@
-const CACHE_NAME = "brinky-horizontal-v1-0-5-completo-botones-x2";
+const CACHE_NAME = "brinky-horizontal-v1-0-7-play-continuar";
 const APP_FILES = [
   './',
   './index.html',
