@@ -1,0 +1,10 @@
+BRINKY FIESTA 1.0.5 HORIZONTAL COMPLETO
+
+Cambios realizados directamente en la programación:
+- El escenario conserva la proporción 960 x 620 y se escala completo dentro de la pantalla.
+- Se elimina el recorte de la parte inferior y de los laterales.
+- Los botones izquierdo y derecho tienen el doble de tamaño visual.
+- Las zonas táctiles crecen junto con los botones.
+- No se modificó la lógica, puntuación, niveles ni objetos del juego.
+
+Para actualizar GitHub Pages, reemplaza todos los archivos y espera 1-2 minutos.
