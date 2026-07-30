@@ -1,4 +1,4 @@
-const CACHE_NAME = "brinky-horizontal-v1-0-7-play-continuar";
+const CACHE_NAME = "brinky-horizontal-v1-0-9-play-pausa-visible";
 const APP_FILES = [
   './',
   './index.html',

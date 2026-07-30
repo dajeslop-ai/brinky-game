@@ -1,7 +1,7 @@
 {
-  "name": "Brinky Fiesta 1.0.5 Horizontal",
-  "short_name": "Brinky 1.0.5",
-  "description": "Juego arcade infantil Brinky Fiesta optimizado para teléfonos en posición vertical.",
+  "name": "Brinky Fiesta 1.0.9 Horizontal",
+  "short_name": "Brinky 1.0.9",
+  "description": "Juego arcade infantil Brinky Fiesta horizontal con botón PLAY/PAUSA visible.",
   "id": "./",
   "start_url": "./",
   "scope": "./",

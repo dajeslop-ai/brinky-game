@@ -1,5 +1,4 @@
-BRINKY FIESTA 1.0.8 - CONTINUAR CORREGIDO
+BRINKY FIESTA 1.0.9 PLAY / PAUSA VISIBLE
 
-Reemplaza todos los archivos del repositorio con los de esta carpeta.
-Al regresar al juego debe aparecer el botón grande CONTINUAR.
-La pausa funciona con visibilitychange, blur, pagehide y freeze.
+Sube los ARCHIVOS EXTRAÍDOS al repositorio. No subas únicamente el ZIP.
+El botón verde central muestra ⏸ PAUSA durante el juego y ▶ PLAY cuando está pausado.
