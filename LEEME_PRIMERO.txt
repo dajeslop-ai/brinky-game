@@ -1,4 +1,1 @@
-BRINKY FIESTA 1.0.9 PLAY / PAUSA VISIBLE
-
-Sube los ARCHIVOS EXTRAÍDOS al repositorio. No subas únicamente el ZIP.
-El botón verde central muestra ⏸ PAUSA durante el juego y ▶ PLAY cuando está pausado.
+Sube los archivos extraídos a GitHub. Verifica la etiqueta BRINKY 1.0.10 AUDIO EN SEGUNDO PLANO CORREGIDO.

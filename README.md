@@ -1,3 +1,3 @@
-# Brinky Fiesta 1.0.9
+BRINKY FIESTA 1.0.10
 
-Versión horizontal con botón **PLAY / PAUSA** siempre visible en el centro inferior.
+Correcciones: música solo inicia al comenzar; se detiene al salir/bloquear; reanuda únicamente con CONTINUAR; se eliminó la pausa falsa por blur.
